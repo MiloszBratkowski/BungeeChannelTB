@@ -1,0 +1,4 @@
+name: HelpOPBungeeTB
+version: '${project.version}'
+main: pl.techbrat.bungee.helpop.HelpOPBungeeTB
+description: Plugin bungee
