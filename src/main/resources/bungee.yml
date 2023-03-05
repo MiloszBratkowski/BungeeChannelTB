@@ -1,4 +1,5 @@
-name: HelpOPBungeeTB
+name: '${project.name}'
 version: '${project.version}'
-main: pl.techbrat.bungee.helpop.HelpOPBungeeTB
-description: Plugin bungee
+main: pl.techbrat.bungee.bungeechannel.BungeeChannelTB
+description: '${project.description}'
+author: TechBrat
